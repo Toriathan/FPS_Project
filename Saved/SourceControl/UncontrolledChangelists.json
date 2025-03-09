@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents2/FPS_Project/Content/Levels/Lucas.umap",
+				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Materials/White.uasset",
+				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Meshes/SM_MERGED_StaticMeshActor_8.uasset",
+				"D:/Documents2/FPS_Project/Content/Levels/_GENERATED/lsoss/Boolean_DDBA00B9.uasset",
+				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Materials/M_Enemy.uasset",
+				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Materials/M_Health.uasset",
+				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Materials/M_Ammo.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Base_color.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Base_color1.uasset",
+				"D:/Documents2/FPS_Project/Content/Levels/_GENERATED/lsoss/Boolean_70EECAC7.uasset",
+				"D:/Documents2/FPS_Project/Content/Levels/_GENERATED/lsoss/Boolean_8CD1584A.uasset",
+				"D:/Documents2/FPS_Project/Content/Levels/_GENERATED/lsoss/Boolean_FCED74E1.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Door_001.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/door_glb.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Frame_001.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Metal_png-Rough_png.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Metal_png-Rough_png1.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Normal.uasset",
+				"D:/Documents2/FPS_Project/Content/Fab/Door/Normal1.uasset"
+			]
+		}
+	]
+}
