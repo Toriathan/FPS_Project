@@ -3462,3 +3462,80 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.09-23.52.13:210][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4338.188965
 [2025.03.09-23.52.14:209][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.09-23.52.14:209][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4338.855469, Update Interval: 344.384277
+[2025.03.09-23.54.17:529][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-23.54.17:577][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Obie" FILE="../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/Obie.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.09-23.54.17:619][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.09-23.54.17:637][ 24]LogSavePackage: Moving output files for package: /Game/Levels/Obie
+[2025.03.09-23.54.17:638][ 24]LogSavePackage: Moving '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Saved/Obie6AA79CF24F01EE7907023FBAC714EA5C.tmp' to '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/Obie.umap'
+[2025.03.09-23.54.17:655][ 24]LogFileHelpers: Saving map 'Obie' took 0.078
+[2025.03.09-23.54.17:661][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.220 ms (total: 1.23 sec)
+[2025.03.09-23.54.17:693][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.09-23.54.17:693][ 24]LogContentValidation: Enabled validators:
+[2025.03.09-23.54.17:694][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.09-23.54.17:694][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.09-23.54.17:694][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.09-23.54.17:694][ 24]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.09-23.54.17:694][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.09-23.54.17:694][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.09-23.54.17:694][ 24]AssetCheck: /Game/Levels/Obie Validating asset
+[2025.03.09-23.54.18:340][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.09-23.54.20:271][ 85]LogSlate: Window 'Save Content' being destroyed
+[2025.03.09-23.54.20:282][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-23.54.20:313][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/ObieObjects/SM_BossRoom] ([1] browsable assets)...
+[2025.03.09-23.54.20:313][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/ObieObjects/SM_BossRoom]
+[2025.03.09-23.54.20:313][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ObieObjects/SM_BossRoom" FILE="../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/ObieObjects/SM_BossRoom.uasset" SILENT=true
+[2025.03.09-23.54.20:322][ 85]LogSavePackage: Moving output files for package: /Game/Levels/ObieObjects/SM_BossRoom
+[2025.03.09-23.54.20:322][ 85]LogSavePackage: Moving '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Saved/SM_BossRoom77ACEEEE438827AB47E2B494521D34B9.tmp' to '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/ObieObjects/SM_BossRoom.uasset'
+[2025.03.09-23.54.20:324][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/ObieObjects/SM_SM_Corner] ([1] browsable assets)...
+[2025.03.09-23.54.20:324][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/ObieObjects/SM_SM_Corner]
+[2025.03.09-23.54.20:324][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ObieObjects/SM_SM_Corner" FILE="../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/ObieObjects/SM_SM_Corner.uasset" SILENT=true
+[2025.03.09-23.54.20:329][ 85]LogSavePackage: Moving output files for package: /Game/Levels/ObieObjects/SM_SM_Corner
+[2025.03.09-23.54.20:329][ 85]LogSavePackage: Moving '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Saved/SM_SM_CornerDE7A345C4BD9A64490487E8630E6E7CE.tmp' to '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/ObieObjects/SM_SM_Corner.uasset'
+[2025.03.09-23.54.20:331][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/ObieObjects/SM_Stage] ([1] browsable assets)...
+[2025.03.09-23.54.20:331][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/ObieObjects/SM_Stage]
+[2025.03.09-23.54.20:331][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ObieObjects/SM_Stage" FILE="../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/ObieObjects/SM_Stage.uasset" SILENT=true
+[2025.03.09-23.54.20:335][ 85]LogSavePackage: Moving output files for package: /Game/Levels/ObieObjects/SM_Stage
+[2025.03.09-23.54.20:335][ 85]LogSavePackage: Moving '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Saved/SM_Stage5BA496114F2DCBD10398678088281D1A.tmp' to '../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/ObieObjects/SM_Stage.uasset'
+[2025.03.09-23.54.20:405][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.001 ms (total: 1.36 sec)
+[2025.03.09-23.54.20:629][ 85]LogStall: Shutdown...
+[2025.03.09-23.54.20:629][ 85]LogStall: Shutdown complete.
+[2025.03.09-23.54.20:892][ 85]LogSlate: Window 'FPS_Project - Unreal Editor' being destroyed
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: Display: Starting to validate 3 assets
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: Enabled validators:
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.09-23.54.27:139][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.09-23.54.27:139][ 85]AssetCheck: /Game/Levels/ObieObjects/SM_BossRoom Validating asset
+[2025.03.09-23.54.27:139][ 85]AssetCheck: /Game/Levels/ObieObjects/SM_SM_Corner Validating asset
+[2025.03.09-23.54.27:139][ 85]AssetCheck: /Game/Levels/ObieObjects/SM_Stage Validating asset
+[2025.03.09-23.54.27:140][ 85]Cmd: QUIT_EDITOR
+[2025.03.09-23.54.27:142][ 85]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.09-23.54.27:774][ 86]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.09-23.54.27:822][ 86]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.09-23.54.27:822][ 86]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.09-23.54.27:915][ 86]LogWorld: UWorld::CleanupWorld for Obie, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-23.54.27:915][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-23.54.28:100][ 86]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.09-23.54.29:166][ 86]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.09-23.54.30:662][ 86]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-23.54.30:662][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-23.54.30:662][ 86]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-23.54.30:663][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-23.54.31:691][ 86]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.09-23.54.33:306][ 86]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.09-23.54.33:414][ 86]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.09-23.54.33:414][ 86]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.09-23.54.34:888][ 86]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.09-23.54.34:888][ 86]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.09-23.54.34:888][ 86]LogAudio: Display: Audio Device unregistered from world 'Obie'.
+[2025.03.09-23.54.34:888][ 86]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.09-23.54.34:888][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.09-23.54.34:891][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.09-23.54.34:902][ 86]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.09-23.54.34:902][ 86]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.09-23.54.34:903][ 86]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.03.09-23.54.35:536][ 86]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.09-23.54.35:767][ 86]LogExit: Preparing to exit.
