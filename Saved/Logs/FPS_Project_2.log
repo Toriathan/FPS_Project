@@ -1520,3 +1520,34 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.14-04.42.43:763][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7222.182617, Update Interval: 314.134338
 [2025.03.14-04.42.50:113][863]LogAutomationController: Ignoring very large delta of 2.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.03.14-04.45.08:368][486]LogAutomationController: Ignoring very large delta of 9.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.14-04.47.37:004][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2025.03.14-04.47.37:885][182]LogStreaming: Display: FlushAsyncLoading(411): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.14-04.47.39:408][182]LogStaticMesh: Display: Building static mesh SM_Jonathan_Part (Required Memory Estimate: 0.796787 MB)...
+[2025.03.14-04.47.39:408][182]LogStaticMesh: Display: Building static mesh SM_Obie_Part_Cut (Required Memory Estimate: 1.311872 MB)...
+[2025.03.14-04.47.39:424][182]LogStaticMesh: Display: Building static mesh SM_Timothy_Part (Required Memory Estimate: 1.680085 MB)...
+[2025.03.14-04.47.39:428][182]LogStaticMesh: Display: Building static mesh SM_Lucas_Part (Required Memory Estimate: 0.473909 MB)...
+[2025.03.14-04.47.40:418][182]LogStaticMesh: Built static mesh [1.06s] /Game/SM_Obie_Part_Cut.SM_Obie_Part_Cut
+[2025.03.14-04.47.40:448][182]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.14-04.47.40:460][182]LogStaticMesh: Built static mesh [1.10s] /Game/SM_Jonathan_Part.SM_Jonathan_Part
+[2025.03.14-04.47.40:549][182]LogStaticMesh: Built static mesh [1.14s] /Game/SM_Lucas_Part.SM_Lucas_Part
+[2025.03.14-04.47.40:739][182]LogStaticMesh: Built static mesh [1.38s] /Game/SM_Timothy_Part.SM_Timothy_Part
+[2025.03.14-04.47.41:688][182]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2025.03.14-04.47.41:980][182]Cmd: MAP LOAD FILE="../../../../../../Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.14-04.47.43:457][182]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-04.47.43:755][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-04.47.43:770][182]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.03.14-04.47.46:127][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-04.47.47:658][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.14-04.47.51:292][182]LogMeshUtilities: Finished mesh card build in 3.1s SM_Jonathan_Part tris:149 surfels:2977
+[2025.03.14-04.47.51:292][182]LogMeshUtilities: Finished mesh card build in 3.1s SM_Lucas_Part tris:81 surfels:2848
+[2025.03.14-04.47.51:686][182]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-04.47.51:686][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-04.47.52:161][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.14-04.47.52:173][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.14-04.47.52:176][182]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2025.03.14-04.47.52:176][182]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.14-04.47.54:087][182]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.14-04.47.54:125][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.14-04.47.54:195][182]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.14-04.47.54:195][182]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2025.03.14-04.47.55:881][182]LogAutomationController: Ignoring very large delta of 20.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
