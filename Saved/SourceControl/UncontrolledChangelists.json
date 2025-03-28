@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/MainLevel.umap",
 				"D:/Documents2/FPS_Project/Content/Levels/Lucas.umap",
 				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Materials/White.uasset",
 				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Meshes/SM_MERGED_StaticMeshActor_8.uasset",
@@ -36,6 +35,10 @@
 				"D:/Documents2/FPS_Project/Content/SM_Obie_Part_Cut.uasset",
 				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Materials/M_White.uasset",
 				"D:/Documents2/FPS_Project/Content/LevelPrototyping/Materials/M_Wall.uasset",
+				"D:/Documents2/FPS_Project/Content/SM_SM_OBIE.uasset",
+				"D:/Documents2/FPS_Project/Content/Levels/_GENERATED/lsoss/Boolean_2388CAE0.uasset",
+				"D:/Documents2/FPS_Project/Content/Levels/_GENERATED/lsoss/Boolean_88292A17.uasset",
+				"C:/Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/MainLevel.umap",
 				"D:/Documents2/FPS_Project/Content/SM_SM_Lucas_Part.uasset",
 				"D:/Documents2/FPS_Project/Content/SM_SM_SM_Lucas_Part.uasset",
 				"D:/Documents2/FPS_Project/Content/SM_SM_Jonathan_Part.uasset",
