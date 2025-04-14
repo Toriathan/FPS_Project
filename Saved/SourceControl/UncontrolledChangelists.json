@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Levels/Jonathan.umap",
+				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Blueprints/Collectible.uasset",
+				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Blueprints/BP_Collectible.uasset",
+				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Levels/MainLevel.umap",
 				"C:/Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/MainLevel.umap",
 				"C:/Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/_GENERATED/obieo/Boolean_5CC08D72.uasset",
 				"C:/Users/obieo/OneDrive/Documents/GitHub/FPS_Project/Content/Levels/_GENERATED/obieo/Boolean_D90F43F7.uasset",
@@ -74,8 +79,7 @@
 				"D:/Documents2/FPS_Project/Content/SM_SM_Lucas_Part.uasset",
 				"D:/Documents2/FPS_Project/Content/SM_SM_SM_Lucas_Part.uasset",
 				"D:/Documents2/FPS_Project/Content/SM_SM_Jonathan_Part.uasset",
-				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Levels/Timothy.umap",
-				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Levels/Jonathan.umap"
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Levels/Timothy.umap"
 			]
 		}
 	]
