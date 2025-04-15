@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/GitHub/FPS_Project/Content/Ammo/AmmoWidget.uasset",
+				"E:/GitHub/FPS_Project/Content/Levels/MainLevel.umap",
 				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Levels/Timothy.umap",
 				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/WP_Health.uasset",
