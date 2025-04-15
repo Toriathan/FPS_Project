@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/FPS_Project/Content/Health/NewWidgetBlueprint.uasset",
+				"E:/GitHub/FPS_Project/Content/Health/HealthWidget.uasset",
+				"E:/GitHub/FPS_Project/Content/Ammo/HealthWidget.uasset",
+				"E:/GitHub/FPS_Project/Content/Ammo/AmmoWidget.uasset",
+				"E:/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/GitHub/FPS_Project/Content/Levels/MainLevel.umap",
 				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Levels/Jonathan.umap",
 				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Blueprints/Collectible.uasset",
 				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Blueprints/BP_Collectible.uasset",
