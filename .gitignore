@@ -1,3 +1,31 @@
 *.log
 Saved/Logs/FPS_Project_2.log
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+
+# Unreal Engine standard ignores
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+DerivedDataCache/
+Binaries/
+Build/
+Saved/
+Intermediate/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Backup and temp files
+*.bak
+*.tmp
+*.cache
+*.obj
+*.pdb
+
+# GitHub Desktop
+desktop.ini
