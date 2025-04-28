@@ -5,12 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/GitHub/FPS_Project/Content/Health/NewWidgetBlueprint.uasset",
-				"E:/GitHub/FPS_Project/Content/Health/HealthWidget.uasset",
-				"E:/GitHub/FPS_Project/Content/Ammo/HealthWidget.uasset",
-				"E:/GitHub/FPS_Project/Content/Ammo/AmmoWidget.uasset",
 				"E:/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/GitHub/FPS_Project/Content/Ammo/AmmoWidget.uasset",
 				"E:/GitHub/FPS_Project/Content/Levels/MainLevel.umap",
+				"E:/GitHub/FPS_Project/Content/Enemy/Enemy.uasset",
+				"E:/GitHub/FPS_Project/Content/Levels/Obie.umap",
+				"E:/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Levels/Timothy.umap",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/WP_HealthBar.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Blueprints/BP_HealthCollect.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Levels/MainLevel.umap",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/FPWeapon/Mesh/FPPistol.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_Pickup_Pistol.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Blueprints/BP_Collectible.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/WP_Health.uasset",
 				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Levels/Jonathan.umap",
 				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Blueprints/Collectible.uasset",
 				"C:/Users/fyivg/Documents/Unreal Projects/FPS_Project/FPS_Project/Content/Blueprints/BP_Collectible.uasset",
@@ -84,8 +96,7 @@
 				"D:/Documents2/FPS_Project/Content/Levels/_GENERATED/lsoss/Boolean_88292A17.uasset",
 				"D:/Documents2/FPS_Project/Content/SM_SM_Lucas_Part.uasset",
 				"D:/Documents2/FPS_Project/Content/SM_SM_SM_Lucas_Part.uasset",
-				"D:/Documents2/FPS_Project/Content/SM_SM_Jonathan_Part.uasset",
-				"/Users/TimmyWebb/Documents/GitHub/FPS_Project/Content/Levels/Timothy.umap"
+				"D:/Documents2/FPS_Project/Content/SM_SM_Jonathan_Part.uasset"
 			]
 		}
 	]
